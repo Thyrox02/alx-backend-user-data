@@ -1,0 +1,4 @@
+[submodule "./"]
+    path = ./
+    url = <URL_TO_SUBMODULE_REPO>
+
